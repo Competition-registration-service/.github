@@ -12,6 +12,7 @@
 > ### Ссылки на сервисы:
 > - [YouTrack (база знаний)](https://vrnctf.youtrack.cloud/articles/VRN)
 
+> [!IMPORTANT]
 > ### Ссылки на проекты:
 > - [Backend](https://github.com/Competition-registration-service/Competition-registration-service-backend.git)
 > - [Web]()
