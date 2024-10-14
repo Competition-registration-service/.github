@@ -1,6 +1,6 @@
 <div align="center">
     <h1>CRS</h1>
-    <img src="[https://github.com/Ratingus/.github/blob/main/logo.png](https://github.com/Competition-registration-service/.github/blob/main/ca5cfce1-11df-4a0c-954d-e6831b43865d.png)" height="200"/>
+    <img src="https://github.com/Competition-registration-service/.github/blob/main/ca5cfce1-11df-4a0c-954d-e6831b43865d.png" height="200"/>
     <figcaption><h3><i>Платформа для регистрации на соревнования по программированию</i></h3></figcaption>
     <hr/>
 </div>
