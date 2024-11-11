@@ -15,4 +15,4 @@
 > [!IMPORTANT]
 > ### Ссылки на проекты:
 > - [Backend](https://github.com/Competition-registration-service/Competition-registration-service-backend.git)
-> - [Web]()
+> - [Web](https://github.com/Competition-registration-service/Competition-registration-service-frontend.git)
